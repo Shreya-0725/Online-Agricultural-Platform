@@ -1,5 +1,9 @@
 # Online-Agricultural-Consultant
 
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-C%23-blue)
+![SQL Server](https://img.shields.io/badge/Database-SQL_Server-red)
+![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-purple)
+
 📖 Overview
 
 Online Agricultural Consultant is a real-time web application built with ASP.NET MVC and SQL Server, designed to help farmers connect with agricultural experts for guidance on farming practices, soil testing, crop insurance, and government schemes.
